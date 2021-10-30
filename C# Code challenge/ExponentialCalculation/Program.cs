@@ -1,5 +1,5 @@
 ﻿using System;
-
+/* Calculating exponentials with a recursive function*/
 namespace ConsoleApp11
 {
     class Program
